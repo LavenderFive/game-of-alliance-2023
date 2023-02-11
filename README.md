@@ -48,8 +48,10 @@ Validator:  `ordosvaloper14qekdkj2nmmwea4ufg9n002a3pud23y8k3pp9c`
 ## Additional Resources  
 [Tenderduty](https://github.com/blockpane/tenderduty) (via BlockPane)   
 Validator monitoring tool that can send alerts to Discord, Telegram, PagerDuty, and Slack.  
+  
 [Horcrux](https://github.com/strangelove-ventures/horcrux) (via Strangelove)  
-Signing service for Tendermint nodes. *Tread carefully if you are migrating your current setup, as there is a risk of double-signing/tombstoning during migration*.    
+Signing service for Tendermint nodes. *Tread carefully if you are migrating your current setup, as there is a risk of double-signing/tombstoning during migration*. 
+     
 [Degen Horcrux](https://gist.github.com/nullmames/a59f4a08cf646c9e807badd7628706df) (via KingNodes)  
 A way for testnet runners who run a single a server instead of a Horcrux cluster. This will allow you to protect their priv_validator_key and priv_validator_state more efficiently on a single server setup. *Tread carefully if you are migrating your current setup, as there is a risk of double-signing/tombstoning during migration*.  
   
