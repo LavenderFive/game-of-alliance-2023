@@ -1,0 +1,38 @@
+chain_id: ordos-1
+valoper_address: 
+public_fallback: yes
+
+alerts:
+  stalled_enabled: yes
+  stalled_minutes: 5
+
+  consecutive_enabled: yes
+  consecutive_missed: 5
+  consecutive_priority: critical
+
+  percentage_enabled: yes
+  percentage_missed: 10
+  percentage_priority: warning
+
+  alert_if_inactive: yes
+  alert_if_no_servers: yes
+
+  pagerduty:
+    enabled: no
+    api_key: "" # uses default if blank
+
+  discord:
+    enabled: no
+    webhook: "" # uses default if blank
+
+  # Telegram settings
+  telegram:
+    enabled: no
+    api_key: "" # uses default if blank
+    channel: "" # uses default if blank
+
+nodes:
+  - url: tcp://
+    alert_if_down: yes
+  - url: tcp://
+    alert_if_down: yes
