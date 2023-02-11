@@ -1,0 +1,6 @@
+your-url.com {
+  log
+  reverse_proxy * {
+    to http://localhost:8888
+  }
+}

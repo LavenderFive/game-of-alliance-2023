@@ -21,9 +21,13 @@ pagerduty:
 
 discord:
   enabled: no
-  webhook: 
+  webhook: https://discord.com/api/webhooks/999999999999999999/zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
 
 telegram:
   enabled: no
   api_key: '5555555555:AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA'
   channel: "-666666666"
+
+slack:
+  enabled: no
+  webhook: https://hooks.slack.com/services/AAAAAAAAAAAAAAAAAAAAAAA/bbbbbbbbbbbbbbbbbbbbbbbb
