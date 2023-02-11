@@ -4,10 +4,10 @@
 
 # Game of Alliance 2023  
 ## Resources
-[<a href="https://docs.google.com/forms/d/e/1FAIpQLScdnf07cVebzXRURTeg8bnBgNa3PEZEwq9Oke4Edd-TaKDAow/viewform" target="_blank">Bounty Submission</a>]  
-[<a href="https://alliance.terra.money/" target="_blank">Docs</a>]  
-[<a href="https://github.com/terra-money/alliance/tree/feat/wasm-testnets#join-the-game-of-alliance-testnet" target="_blank">Join Testnet</a>]  
-[<a href="https://game-of-alliance.terra.money/">Staking & Faucet</a>]  
+[Bounty Submission](https://docs.google.com/forms/d/e/1FAIpQLScdnf07cVebzXRURTeg8bnBgNa3PEZEwq9Oke4Edd-TaKDAow/viewform)  
+[Docs](https://alliance.terra.money/)  
+[Join Testnet](https://github.com/terra-money/alliance/tree/feat/wasm-testnets#join-the-game-of-alliance-testnet)  
+[Staking & Faucet](https://game-of-alliance.terra.money/)  
   
 [Address Books](https://github.com/LavenderFive/game-of-alliance-2023/tree/master/addrbook)  
 [Genesis Files](https://github.com/LavenderFive/game-of-alliance-2023/tree/master/genesis)  
