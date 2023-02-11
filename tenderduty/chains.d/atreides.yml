@@ -25,11 +25,14 @@ alerts:
     enabled: no
     webhook: "" # uses default if blank
 
-  # Telegram settings
   telegram:
     enabled: no
     api_key: "" # uses default if blank
     channel: "" # uses default if blank
+  
+  slack:
+    enabled: no 
+    webook: "" # uses default if blank
 
 nodes:
   - url: tcp://
